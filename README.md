@@ -6,4 +6,4 @@
 
 通用品牌位于 src/features/site-templates/catalog/souma/config/brand.ts；双语内容在 content；主题变量为 tokens.css，布局为 theme.css；components 复用交互，pages 组合页面，meta.ts 注册路由。公开包导出 template 与 host，品牌及备案由可选 Provider 注入。
 
-素材来源与限制见 .tpl/docs/LICENSE.md 和 asset-sources.json。未确认参考图片授权，不公开上架。Git 仓库：https://github.com/weelume/souma-template。远端已创建为空仓库，尚未提交或上传源码；实际验收状态见验收资料。
+素材来源与限制见 .tpl/docs/LICENSE.md 和 asset-sources.json。未确认参考图片授权，不公开上架。Git 仓库：https://github.com/weelume/souma-template。源码已提供至上述仓库；素材权利与实际验收状态见验收资料。
