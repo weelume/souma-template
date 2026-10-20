@@ -1,0 +1,86 @@
+{
+  "$schema": "../schemas/verification.schema.json",
+  "format": "git-template-verification",
+  "formatVersion": "0.2.0",
+  "status": "passed",
+  "checkedAt": "2026-10-20T10:27:01.803Z",
+  "sourceCommit": null,
+  "sourceDigest": "5bb99944c321014d6725b7e2061187c168435c6ccc8e82a6474d3530b6d73b99",
+  "environment": {
+    "platform": "win32",
+    "arch": "x64",
+    "node": "v22.13.1",
+    "packageManager": "pnpm@12.10.1",
+    "cleanDirectory": true,
+    "localGitClone": false
+  },
+  "checks": [
+    {
+      "id": "typecheck",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "typecheck"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-10-20T10:25:13.053Z",
+      "finishedAt": "2026-10-20T10:25:14.720Z"
+    },
+    {
+      "id": "lint",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "lint"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-10-20T10:25:14.721Z",
+      "finishedAt": "2026-10-20T10:25:18.266Z"
+    },
+    {
+      "id": "test",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "test"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-10-20T10:25:18.266Z",
+      "finishedAt": "2026-10-20T10:25:18.701Z"
+    },
+    {
+      "id": "build",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "build"
+      ],
+      "status": "passed",
+      "exitCode": 0,
+      "startedAt": "2026-10-20T10:25:18.701Z",
+      "finishedAt": "2026-10-20T10:25:38.140Z"
+    }
+  ],
+  "services": [
+    {
+      "id": "web",
+      "status": "passed",
+      "stopped": true,
+      "checkedAt": "2026-10-20T10:27:01.801Z"
+    }
+  ],
+  "limitations": [
+    "新建独立工程，未进行独立 Git 克隆或源码提交；服务验收使用 PORT 环境变量指定隔离端口。",
+    "远端创建未执行；gitUrl 未配置，模板协议完整检查受阻。",
+    "参考素材再分发授权未确认，不公开上架。",
+    "浏览器结果见 browser.json；此报告只覆盖声明的静态检查与本地服务生命周期。",
+    "初次报告服务因并行任务端口占用失败，已保留 verification-port-conflict.json；最终服务重验使用系统分配空闲端口 63194。"
+  ]
+}

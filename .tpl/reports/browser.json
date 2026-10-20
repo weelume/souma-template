@@ -1,0 +1,1133 @@
+{
+  "status": "passed",
+  "checkedAt": "2026-10-20T10:13:04.999Z",
+  "checks": [
+    {
+      "device": "desktop",
+      "locale": "zh",
+      "slug": "",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "headings": [
+        "留一点空间给自己\n让日常更有节奏"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "desktop",
+      "locale": "zh",
+      "slug": "download",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "headings": [
+        "下一个专属片刻\n从这里开始"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "desktop",
+      "locale": "zh",
+      "slug": "blog",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "headings": [
+        "让日常 多一点从容"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "desktop",
+      "locale": "zh",
+      "slug": "blog/a-little-space",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "headings": [
+        "为自己留一点空间"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "desktop",
+      "locale": "zh",
+      "slug": "blog/morning-rhythm",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "headings": [
+        "用十五分钟温柔开启清晨"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "desktop",
+      "locale": "zh",
+      "slug": "blog/evening-pause",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "headings": [
+        "给忙碌的一天一个柔软的结尾"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "desktop",
+      "locale": "zh",
+      "slug": "contact",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "headings": [
+        "留一点空间 聊一聊"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "desktop",
+      "locale": "zh",
+      "slug": "privacy",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "headings": [
+        "隐私政策"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "desktop",
+      "locale": "zh",
+      "slug": "terms",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "headings": [
+        "使用条款"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "desktop",
+      "locale": "zh",
+      "slug": "cookies",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "headings": [
+        "Cookie 政策"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "desktop",
+      "locale": "en",
+      "slug": "",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "headings": [
+        "A little space for you.\nA better rhythm for your day."
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "desktop",
+      "locale": "en",
+      "slug": "download",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "headings": [
+        "Your next moment\nstarts here."
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "desktop",
+      "locale": "en",
+      "slug": "blog",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "headings": [
+        "A little more ease in your everyday."
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "desktop",
+      "locale": "en",
+      "slug": "blog/a-little-space",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "headings": [
+        "A little space for yourself"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "desktop",
+      "locale": "en",
+      "slug": "blog/morning-rhythm",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "headings": [
+        "A gentler rhythm for your morning"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "desktop",
+      "locale": "en",
+      "slug": "blog/evening-pause",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "headings": [
+        "A softer landing at the end of the day"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "desktop",
+      "locale": "en",
+      "slug": "contact",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "headings": [
+        "A little space for a conversation."
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "desktop",
+      "locale": "en",
+      "slug": "privacy",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "headings": [
+        "Privacy policy"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "desktop",
+      "locale": "en",
+      "slug": "terms",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "headings": [
+        "Terms of use"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "desktop",
+      "locale": "en",
+      "slug": "cookies",
+      "width": 1440,
+      "scrollWidth": 1425,
+      "headings": [
+        "Cookie policy"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "tablet",
+      "locale": "zh",
+      "slug": "",
+      "width": 834,
+      "scrollWidth": 819,
+      "headings": [
+        "留一点空间给自己\n让日常更有节奏"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "tablet",
+      "locale": "zh",
+      "slug": "download",
+      "width": 834,
+      "scrollWidth": 819,
+      "headings": [
+        "下一个专属片刻\n从这里开始"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "tablet",
+      "locale": "zh",
+      "slug": "blog",
+      "width": 834,
+      "scrollWidth": 819,
+      "headings": [
+        "让日常 多一点从容"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "tablet",
+      "locale": "zh",
+      "slug": "blog/a-little-space",
+      "width": 834,
+      "scrollWidth": 819,
+      "headings": [
+        "为自己留一点空间"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "tablet",
+      "locale": "zh",
+      "slug": "blog/morning-rhythm",
+      "width": 834,
+      "scrollWidth": 819,
+      "headings": [
+        "用十五分钟温柔开启清晨"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "tablet",
+      "locale": "zh",
+      "slug": "blog/evening-pause",
+      "width": 834,
+      "scrollWidth": 819,
+      "headings": [
+        "给忙碌的一天一个柔软的结尾"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "tablet",
+      "locale": "zh",
+      "slug": "contact",
+      "width": 834,
+      "scrollWidth": 819,
+      "headings": [
+        "留一点空间 聊一聊"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "tablet",
+      "locale": "zh",
+      "slug": "privacy",
+      "width": 834,
+      "scrollWidth": 819,
+      "headings": [
+        "隐私政策"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "tablet",
+      "locale": "zh",
+      "slug": "terms",
+      "width": 834,
+      "scrollWidth": 819,
+      "headings": [
+        "使用条款"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "tablet",
+      "locale": "zh",
+      "slug": "cookies",
+      "width": 834,
+      "scrollWidth": 819,
+      "headings": [
+        "Cookie 政策"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "tablet",
+      "locale": "en",
+      "slug": "",
+      "width": 834,
+      "scrollWidth": 819,
+      "headings": [
+        "A little space for you.\nA better rhythm for your day."
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "tablet",
+      "locale": "en",
+      "slug": "download",
+      "width": 834,
+      "scrollWidth": 819,
+      "headings": [
+        "Your next moment\nstarts here."
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "tablet",
+      "locale": "en",
+      "slug": "blog",
+      "width": 834,
+      "scrollWidth": 819,
+      "headings": [
+        "A little more ease in your everyday."
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "tablet",
+      "locale": "en",
+      "slug": "blog/a-little-space",
+      "width": 834,
+      "scrollWidth": 819,
+      "headings": [
+        "A little space for yourself"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "tablet",
+      "locale": "en",
+      "slug": "blog/morning-rhythm",
+      "width": 834,
+      "scrollWidth": 819,
+      "headings": [
+        "A gentler rhythm for your morning"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "tablet",
+      "locale": "en",
+      "slug": "blog/evening-pause",
+      "width": 834,
+      "scrollWidth": 819,
+      "headings": [
+        "A softer landing at the end of the day"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "tablet",
+      "locale": "en",
+      "slug": "contact",
+      "width": 834,
+      "scrollWidth": 819,
+      "headings": [
+        "A little space for a conversation."
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "tablet",
+      "locale": "en",
+      "slug": "privacy",
+      "width": 834,
+      "scrollWidth": 819,
+      "headings": [
+        "Privacy policy"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "tablet",
+      "locale": "en",
+      "slug": "terms",
+      "width": 834,
+      "scrollWidth": 819,
+      "headings": [
+        "Terms of use"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "tablet",
+      "locale": "en",
+      "slug": "cookies",
+      "width": 834,
+      "scrollWidth": 819,
+      "headings": [
+        "Cookie policy"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "mobile",
+      "locale": "zh",
+      "slug": "",
+      "width": 390,
+      "scrollWidth": 375,
+      "headings": [
+        "留一点空间给自己\n让日常更有节奏"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "mobile",
+      "locale": "zh",
+      "slug": "download",
+      "width": 390,
+      "scrollWidth": 375,
+      "headings": [
+        "下一个专属片刻\n从这里开始"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "mobile",
+      "locale": "zh",
+      "slug": "blog",
+      "width": 390,
+      "scrollWidth": 375,
+      "headings": [
+        "让日常 多一点从容"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "mobile",
+      "locale": "zh",
+      "slug": "blog/a-little-space",
+      "width": 390,
+      "scrollWidth": 375,
+      "headings": [
+        "为自己留一点空间"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "mobile",
+      "locale": "zh",
+      "slug": "blog/morning-rhythm",
+      "width": 390,
+      "scrollWidth": 375,
+      "headings": [
+        "用十五分钟温柔开启清晨"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "mobile",
+      "locale": "zh",
+      "slug": "blog/evening-pause",
+      "width": 390,
+      "scrollWidth": 375,
+      "headings": [
+        "给忙碌的一天一个柔软的结尾"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "mobile",
+      "locale": "zh",
+      "slug": "contact",
+      "width": 390,
+      "scrollWidth": 375,
+      "headings": [
+        "留一点空间 聊一聊"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "mobile",
+      "locale": "zh",
+      "slug": "privacy",
+      "width": 390,
+      "scrollWidth": 375,
+      "headings": [
+        "隐私政策"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "mobile",
+      "locale": "zh",
+      "slug": "terms",
+      "width": 390,
+      "scrollWidth": 375,
+      "headings": [
+        "使用条款"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "mobile",
+      "locale": "zh",
+      "slug": "cookies",
+      "width": 390,
+      "scrollWidth": 375,
+      "headings": [
+        "Cookie 政策"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "mobile",
+      "locale": "en",
+      "slug": "",
+      "width": 390,
+      "scrollWidth": 375,
+      "headings": [
+        "A little space for you.\nA better rhythm for your day."
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "mobile",
+      "locale": "en",
+      "slug": "download",
+      "width": 390,
+      "scrollWidth": 375,
+      "headings": [
+        "Your next moment\nstarts here."
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "mobile",
+      "locale": "en",
+      "slug": "blog",
+      "width": 390,
+      "scrollWidth": 375,
+      "headings": [
+        "A little more ease in your everyday."
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "mobile",
+      "locale": "en",
+      "slug": "blog/a-little-space",
+      "width": 390,
+      "scrollWidth": 375,
+      "headings": [
+        "A little space for yourself"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "mobile",
+      "locale": "en",
+      "slug": "blog/morning-rhythm",
+      "width": 390,
+      "scrollWidth": 375,
+      "headings": [
+        "A gentler rhythm for your morning"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "mobile",
+      "locale": "en",
+      "slug": "blog/evening-pause",
+      "width": 390,
+      "scrollWidth": 375,
+      "headings": [
+        "A softer landing at the end of the day"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "mobile",
+      "locale": "en",
+      "slug": "contact",
+      "width": 390,
+      "scrollWidth": 375,
+      "headings": [
+        "A little space for a conversation."
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "mobile",
+      "locale": "en",
+      "slug": "privacy",
+      "width": 390,
+      "scrollWidth": 375,
+      "headings": [
+        "Privacy policy"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "mobile",
+      "locale": "en",
+      "slug": "terms",
+      "width": 390,
+      "scrollWidth": 375,
+      "headings": [
+        "Terms of use"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "mobile",
+      "locale": "en",
+      "slug": "cookies",
+      "width": 390,
+      "scrollWidth": 375,
+      "headings": [
+        "Cookie policy"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "narrow",
+      "locale": "zh",
+      "slug": "",
+      "width": 320,
+      "scrollWidth": 305,
+      "headings": [
+        "留一点空间给自己\n让日常更有节奏"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "narrow",
+      "locale": "zh",
+      "slug": "download",
+      "width": 320,
+      "scrollWidth": 305,
+      "headings": [
+        "下一个专属片刻\n从这里开始"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "narrow",
+      "locale": "zh",
+      "slug": "blog",
+      "width": 320,
+      "scrollWidth": 305,
+      "headings": [
+        "让日常 多一点从容"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "narrow",
+      "locale": "zh",
+      "slug": "blog/a-little-space",
+      "width": 320,
+      "scrollWidth": 305,
+      "headings": [
+        "为自己留一点空间"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "narrow",
+      "locale": "zh",
+      "slug": "blog/morning-rhythm",
+      "width": 320,
+      "scrollWidth": 305,
+      "headings": [
+        "用十五分钟温柔开启清晨"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "narrow",
+      "locale": "zh",
+      "slug": "blog/evening-pause",
+      "width": 320,
+      "scrollWidth": 305,
+      "headings": [
+        "给忙碌的一天一个柔软的结尾"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "narrow",
+      "locale": "zh",
+      "slug": "contact",
+      "width": 320,
+      "scrollWidth": 305,
+      "headings": [
+        "留一点空间 聊一聊"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "narrow",
+      "locale": "zh",
+      "slug": "privacy",
+      "width": 320,
+      "scrollWidth": 305,
+      "headings": [
+        "隐私政策"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "narrow",
+      "locale": "zh",
+      "slug": "terms",
+      "width": 320,
+      "scrollWidth": 305,
+      "headings": [
+        "使用条款"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "narrow",
+      "locale": "zh",
+      "slug": "cookies",
+      "width": 320,
+      "scrollWidth": 305,
+      "headings": [
+        "Cookie 政策"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "narrow",
+      "locale": "en",
+      "slug": "",
+      "width": 320,
+      "scrollWidth": 305,
+      "headings": [
+        "A little space for you.\nA better rhythm for your day."
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "narrow",
+      "locale": "en",
+      "slug": "download",
+      "width": 320,
+      "scrollWidth": 305,
+      "headings": [
+        "Your next moment\nstarts here."
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "narrow",
+      "locale": "en",
+      "slug": "blog",
+      "width": 320,
+      "scrollWidth": 305,
+      "headings": [
+        "A little more ease in your everyday."
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "narrow",
+      "locale": "en",
+      "slug": "blog/a-little-space",
+      "width": 320,
+      "scrollWidth": 305,
+      "headings": [
+        "A little space for yourself"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "narrow",
+      "locale": "en",
+      "slug": "blog/morning-rhythm",
+      "width": 320,
+      "scrollWidth": 305,
+      "headings": [
+        "A gentler rhythm for your morning"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "narrow",
+      "locale": "en",
+      "slug": "blog/evening-pause",
+      "width": 320,
+      "scrollWidth": 305,
+      "headings": [
+        "A softer landing at the end of the day"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "narrow",
+      "locale": "en",
+      "slug": "contact",
+      "width": 320,
+      "scrollWidth": 305,
+      "headings": [
+        "A little space for a conversation."
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "narrow",
+      "locale": "en",
+      "slug": "privacy",
+      "width": 320,
+      "scrollWidth": 305,
+      "headings": [
+        "Privacy policy"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "narrow",
+      "locale": "en",
+      "slug": "terms",
+      "width": 320,
+      "scrollWidth": 305,
+      "headings": [
+        "Terms of use"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    },
+    {
+      "device": "narrow",
+      "locale": "en",
+      "slug": "cookies",
+      "width": 320,
+      "scrollWidth": 305,
+      "headings": [
+        "Cookie policy"
+      ],
+      "bad": [],
+      "fonts": [],
+      "external": []
+    }
+  ],
+  "interactions": [
+    "练习类型切换",
+    "手机示意课程选择",
+    "精选课程切换",
+    "会员故事轮播",
+    "FAQ 展开与互斥",
+    "下载入口仅展示",
+    "日志筛选",
+    "表单本地校验且无 POST",
+    "语言切换保留页面查询锚点",
+    "手机菜单锚点导航"
+  ],
+  "shots": [
+    {
+      "device": "desktop",
+      "section": "home",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "device": "desktop",
+      "section": "practice",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "device": "desktop",
+      "section": "blog",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "device": "desktop",
+      "section": "contact",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "device": "tablet",
+      "section": "home",
+      "width": 834,
+      "height": 1180
+    },
+    {
+      "device": "tablet",
+      "section": "practice",
+      "width": 834,
+      "height": 1180
+    },
+    {
+      "device": "tablet",
+      "section": "blog",
+      "width": 834,
+      "height": 1180
+    },
+    {
+      "device": "tablet",
+      "section": "contact",
+      "width": 834,
+      "height": 1180
+    },
+    {
+      "device": "mobile",
+      "section": "home",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "device": "mobile",
+      "section": "practice",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "device": "mobile",
+      "section": "blog",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "device": "mobile",
+      "section": "contact",
+      "width": 390,
+      "height": 844
+    }
+  ],
+  "errors": []
+}

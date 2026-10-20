@@ -1,0 +1,28 @@
+{
+  "format": "git-template-customization",
+  "formatVersion": "0.2.0",
+  "entries": [
+    {
+      "id": "brand-and-content",
+      "title": "品牌与双语内容",
+      "description": "编辑集中配置、内容与主题；同步页面与市场信息。",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/souma",
+          "kind": "directory",
+          "purpose": "模板页面、配置、内容和主题"
+        }
+      ],
+      "constraints": [
+        "不保存消费方品牌或路径",
+        "中英文同步修改"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "test"
+      ]
+    }
+  ],
+  "$schema": "./schemas/customization.schema.json"
+}

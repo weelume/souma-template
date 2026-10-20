@@ -1,0 +1,6 @@
+@import url('/templates/souma/fonts/misans/MiSans-Regular.css');
+@import url('/templates/souma/fonts/misans/MiSans-Bold.css');
+@font-face{font-family:SoumaPoppins;src:url('/templates/souma/fonts/poppins-latin-400.woff2') format('woff2');font-weight:400;font-display:swap}
+@font-face{font-family:SoumaPoppins;src:url('/templates/souma/fonts/poppins-latin-600.woff2') format('woff2');font-weight:600;font-display:swap}
+@font-face{font-family:SoumaPoppins;src:url('/templates/souma/fonts/poppins-latin-700.woff2') format('woff2');font-weight:700;font-display:swap}
+.so-site{--so-paper:#f7f7ef;--so-cream:#eeeee1;--so-ink:#28382d;--so-muted:#66715f;--so-forest:#293c2e;--so-lime:#d3dfac;--so-line:rgba(52,71,49,.17);--so-glass:linear-gradient(135deg,rgba(255,255,255,.75),rgba(238,240,223,.56));--so-shadow:0 12px 40px rgba(37,55,31,.065);--so-highlight:rgba(255,255,255,.8);--so-radius:20px;--so-small-radius:12px;--so-section-gap:clamp(64px,8vw,120px);--so-title:clamp(28px,3.1vw,44px);--so-heading:clamp(24px,2.6vw,36px);--so-body:16px;--so-container:1320px;--so-focus:#7a913d}

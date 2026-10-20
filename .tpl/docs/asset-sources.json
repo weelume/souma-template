@@ -1,0 +1,97 @@
+{
+  "reference": "https://souma.framer.website/",
+  "retrievedAt": "2026-10-20T09:53:10.337Z",
+  "images": [
+    {
+      "file": "public/templates/souma/images/hero.png",
+      "url": "https://framerusercontent.com/images/ygv7Z9DWxDwOwPIJTEnRatPcjpA.png?scale-down-to=1024",
+      "alt": "Souma yoga app displayed on an iPhone held in a hand",
+      "sha256": "11da6968c94107cc0f63b2a997b223e7c4c6ee4d658338a13934ad1502e03bf6",
+      "license": "参考站素材，未确认再分发授权，仅供本地复刻验收"
+    },
+    {
+      "file": "public/templates/souma/images/practice.png",
+      "url": "https://framerusercontent.com/images/6gejKyork56Sdnnvz0RXc0MQOLs.png?scale-down-to=1024",
+      "alt": "A quiet moment of mindful yoga practice",
+      "sha256": "48513db073470291c4b7ed999544d8344a1b78ecd6c13e2104aab4d1834670b1",
+      "license": "参考站素材，未确认再分发授权，仅供本地复刻验收"
+    },
+    {
+      "file": "public/templates/souma/images/studio.png",
+      "url": "https://framerusercontent.com/images/bG6ZsOMGspcBZ7EMIA1YMbXeeQ4.png?scale-down-to=1024",
+      "alt": "A calm, sunlit space for yoga and reflection",
+      "sha256": "bf65a9f7984ed9aaf695e2231de63e30d3d797c0b1d8c91b2150a32875d4978d",
+      "license": "参考站素材，未确认再分发授权，仅供本地复刻验收"
+    },
+    {
+      "file": "public/templates/souma/images/guide.png",
+      "url": "https://framerusercontent.com/images/rXqO3f8paPvUC2estJfMhJL8CQ.png?scale-down-to=1024",
+      "alt": "A yoga guide for your daily practice",
+      "sha256": "1f7323ec9b15dce2873d4ee42a4ad76d5e4ec6d22bb68f98d4f57f84c4910234",
+      "license": "参考站素材，未确认再分发授权，仅供本地复刻验收"
+    },
+    {
+      "file": "public/templates/souma/images/morning.png",
+      "url": "https://framerusercontent.com/images/2QBehrM8CR6AlW1PBqTS2zZTGrk.png?scale-down-to=1024",
+      "alt": "Energizing yoga practice in the Souma app",
+      "sha256": "599da57e995073144787c94b586e6449d7e0473561ff435c329c7ee635a8df8c",
+      "license": "参考站素材，未确认再分发授权，仅供本地复刻验收"
+    },
+    {
+      "file": "public/templates/souma/images/ritual.png",
+      "url": "https://framerusercontent.com/images/EkOYWUCNW3pYURjlR9jtlUxYuI.png?scale-down-to=1024",
+      "alt": "Mindful movement as part of a daily yoga routine",
+      "sha256": "9217f5f7547264cbae8e43ddabb5ba38e5312c928c7e3c34907257b184024b6b",
+      "license": "参考站素材，未确认再分发授权，仅供本地复刻验收"
+    },
+    {
+      "file": "public/templates/souma/images/room.png",
+      "url": "https://framerusercontent.com/images/ghi8jCA6cJYc1jN2s5thFuOmvBM.png?scale-down-to=1024",
+      "alt": "A peaceful space for an at-home yoga practice",
+      "sha256": "33a0b002fd5900ae6053b2406c9448dbe4625e2f25ae62423c2d9455309c26ec",
+      "license": "参考站素材，未确认再分发授权，仅供本地复刻验收"
+    },
+    {
+      "file": "public/templates/souma/images/flow.png",
+      "url": "https://framerusercontent.com/images/haOms7zkSm8W1Y4t04Mh0IHQvEs.png?scale-down-to=1024",
+      "alt": "Morning yoga class in the Souma app",
+      "sha256": "bf98361983734d0c15a1bff00d01107568c87c9723c51bf2d2caf0523b9a14be",
+      "license": "参考站素材，未确认再分发授权，仅供本地复刻验收"
+    },
+    {
+      "file": "public/templates/souma/images/evening.png",
+      "url": "https://framerusercontent.com/images/VB1ZeCeih6ngaQksaQUOCcXI1v8.png?scale-down-to=1024",
+      "alt": "Restful evening yoga practice in the Souma app",
+      "sha256": "c3f81e02a6818961ff5dc62f01bc56ace456a97f125e34536734c78a24f4025e",
+      "license": "参考站素材，未确认再分发授权，仅供本地复刻验收"
+    },
+    {
+      "file": "public/templates/souma/images/calm.png",
+      "url": "https://framerusercontent.com/images/CGUAKHkNkNbqrMp9MhJHEqlFr4M.png?scale-down-to=1024",
+      "alt": "A moment of calm during a yoga practice",
+      "sha256": "8c923d94317fcab6f4d1915ecadf2304154626c21e470d6df1ffa14d959c0d07",
+      "license": "参考站素材，未确认再分发授权，仅供本地复刻验收"
+    },
+    {
+      "file": "public/templates/souma/images/founder.png",
+      "url": "https://framerusercontent.com/images/3mTMBUmpY6bWn77BYv8mGA6b4yA.png?scale-down-to=1024",
+      "alt": "Elliot Reed, founder of Souma",
+      "sha256": "6f300b3548dcd9834bda79e7c4b3128bf73b41296c5bfc4789a7234283d85b0f",
+      "license": "参考站素材，未确认再分发授权，仅供本地复刻验收"
+    },
+    {
+      "file": "public/templates/souma/images/maya.jpg",
+      "url": "https://framerusercontent.com/images/7Cxlz4oFjIGL878KpGB8LV2ZQP0.jpg?scale-down-to=1024",
+      "alt": "Maya, featured Souma member story",
+      "sha256": "b78624f75b0f1118d4e45804ae5be7f35cb241d3329a9a12539f214c13e0b2ef",
+      "license": "参考站素材，未确认再分发授权，仅供本地复刻验收"
+    },
+    {
+      "file": "public/templates/souma/images/alex.jpg",
+      "url": "https://framerusercontent.com/images/eFg97H82d7dhI7kU6DrQdlvaNw.jpg?scale-down-to=1024",
+      "alt": "Alex, featured Souma member story",
+      "sha256": "7a0d56fdcd8b0e719a30b7ed67dddacecdc664f65db73aab4de541e9278feab0",
+      "license": "参考站素材，未确认再分发授权，仅供本地复刻验收"
+    }
+  ]
+}
